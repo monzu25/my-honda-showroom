@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-header{
+    background-color: #264653;
+}
+
+.img-feature{
+   width: 70%;
+   height: 70%;
+}
+
+.img-gray{
+    /* filter: gray; IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+  filter: grayscale(1)
+}
+
+
+
+
+
+.bs-example{
+    margin: 20px;
+}
+.accordion .fa{
+    margin-right: 0.5rem;
+}
+
+
+
+
+div.scrollmenu {
+ 
+    overflow: auto;
+    white-space: nowrap;
+  }
+  
+  div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  div.scrollmenu a:hover {
+    background-color: #777;
+  }
+
+
+/* Products Area */
+.products-area{
+  padding: 0 0 130px 0;
+}
+.products-area h3 span{
+  color: var(--yellow-color);
+}
+.product-rating i{
+  color: #e77c40;
+  font-size: 12px;
+}
+.honda-button {
+  background-color: #E76F51;
+  border: 2px solid transparent;
+}
+
+
+
+ 
+
+  /* Ccontact Us */
+.contact-us{
+  padding: 0 0 130px 0;
+}
+.contact-us h3 span{
+  color:#e77c40;
+ 
+}
+.contact-us h3{
+  font-size: 50px;
+}
+
+
+/* Footer Section  */
+
+.footter-section{
+  height: 280px;
+  align-items: center;
+}
